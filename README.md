@@ -1,13 +1,14 @@
 # Todo App w React Native
 
-![1]<img src="/Users/emre/Library/Mobile Documents/com~apple~CloudDocs/Desktop/apps video/todo app/1.png" width=200 >
+![1]<img src="https://github.com/EmreSamurlu/todoapp-reactnative/blob/master/ss/1.png" width=200 >
 
-![2](/Users/emre/Library/Mobile Documents/com~apple~CloudDocs/Desktop/apps video/todo app/2.png)
+![2]<img src="https://github.com/EmreSamurlu/todoapp-reactnative/blob/master/ss/2.png" width=200 >
 
-![3](/Users/emre/Library/Mobile Documents/com~apple~CloudDocs/Desktop/apps video/todo app/3.png)
+![3]<img src="https://github.com/EmreSamurlu/todoapp-reactnative/blob/master/ss/3.png" width=200 >
 
-![4](/Users/emre/Library/Mobile Documents/com~apple~CloudDocs/Desktop/apps video/todo app/4.png)
+![4]<img src="https://github.com/EmreSamurlu/todoapp-reactnative/blob/master/ss/4.png" width=200 >
 
-![5](/Users/emre/Library/Mobile Documents/com~apple~CloudDocs/Desktop/apps video/todo app/5.png)
+![5]<img src="https://github.com/EmreSamurlu/todoapp-reactnative/blob/master/ss/5.png" width=200 >
 
-![6](/Users/emre/Library/Mobile Documents/com~apple~CloudDocs/Desktop/apps video/todo app/6.png)
+![6]<img src="https://github.com/EmreSamurlu/todoapp-reactnative/blob/master/ss/6.png" width=200 >
+
